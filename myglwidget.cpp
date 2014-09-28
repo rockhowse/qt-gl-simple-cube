@@ -1,4 +1,5 @@
-
+// code taken from:
+// http://sorj.de/?p=192
 #include "myglwidget.h"
 
 /*
